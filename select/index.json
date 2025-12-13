@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "モーニング娘。 『恋愛レボリューション21』  (MV)",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2025-12-13T06:33:44.421940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛レボリューション21",
+      "artist": "morning musume",
+      "has_synced": false,
+      "path": "select/01_恋愛レボリューション21_morning_musume.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋愛レボリューション21",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/02_恋愛レボリューション21_モーニング娘。.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋愛レボリューション21 -秋葉工房mix-",
+      "artist": "DJ Command feat. うさ＆ともみん",
+      "has_synced": false,
+      "path": "select/03_恋愛レボリューション21_-秋葉工房mix-_DJ_Command_feat._うさ&ともみん.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋愛レボリューション21 (updated 23 Ver.)",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/04_恋愛レボリューション21_(updated_23_Ver.)_モーニング娘。.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛レボリューション21",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛レボリューション21_モーニング娘。.txt"
+    }
+  ]
+}
