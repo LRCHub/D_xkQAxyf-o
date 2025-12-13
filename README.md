@@ -1,0 +1,72 @@
+# モーニング娘。 – モーニング娘。 『恋愛レボリューション21』  (MV)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(Woo Love Revolution)
+乾杯BABY!
+紙コップでYEAH! いいじゃない
+OH YES気持ちが大事
+飾りはBABY!
+あるものでYEAH! IN THE NIGHT
+WH YESアイディア勝負
+愛する人よ TELL ME TELL ME
+淋しい時は BABY BABY
+どんな人にも TELL ME TELL ME
+あるというのは 本当なの?(Yes!)
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+(Woo Love Revolution)
+恋もして(Woo Baby)
+仕事して(Woo Baby)
+歴史きざんだ地球
+泣いちゃった(Woo Baby)
+腹へった(Woo Baby)
+LOVE REVOLUTION 21
+(Woo Love Revolution)
+(Woo Love Revolution)
+行こうぜBABY!
+自転車でYEAH! いいじゃない
+OH YES勇気が大事 唄おうぜBABY!
+へたくそでYEAH! IN THE NIGHT
+OH YES愛情で勝負
+愛する人よ TELL ME TELL ME
+楽しい時は BABY BABY
+どんな色した TELL ME TELL ME
+服でキメれば いいのかな? (Yes!)
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+超超超 いい感じ 超超超超いい感じ
+(Woo Love Revolution)
+恋をした(Woo Baby)
+寝坊した(Woo Baby)
+すべて見てきた地球
+愛ゆえに(Woo Baby)
+抱きしめた(Woo Baby)
+LOVE REVOLUTION 21
+超超超 いい感じ 超超超 いい感じ
+超超超 いい感じ 超超超超いい感じ
+この星は 美しい 2人出会った地球
+ALL TOGETHER NOW!(All Together Now)
+ALL TOGETHER NOW!(All Together Now)
+みんなで 恋愛革命
+恋をした(Woo Baby)
+寝坊した(Woo Baby)
+すべて見てきた地球
+愛ゆえに(Woo Baby)
+抱きしめた(Woo Baby)
+LOVE REVOLUTION 21
+ALL TOGETHER NOW!(All Together Now)
+ALL TOGETHER NOW!(All Together Now)
+みんなで 恋愛革命
+ALL TOGETHER NOW!(All Together Now)
+ALL TOGETHER NOW!(All Together Now)
+LOVE REVOLUTION 21
+(Woo Love Revolution)
+(Woo Love Revolution)
+(Woo Love Revolution)
+(Woo Love Revolution)
+```
